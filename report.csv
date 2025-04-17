@@ -1,1 +1,11 @@
-
+Date,Task,Time Spent (hours),Status,Project,Category
+2023-10-01,Attended team meeting,1.5,Completed,Project X,Meeting
+2023-10-01,Developed login API,3.0,In Progress,Project Y,Development
+2023-10-02,Reviewed PR #45,0.5,Completed,Project X,Code Review
+2023-10-02,Updated documentation,2.0,Completed,Project Y,Documentation
+2023-10-03,Client call with ABC Corp,1.0,Completed,Project X,Client
+2023-10-03,Fixed UI bug in dashboard,2.5,Completed,Project Y,Bug Fix
+2023-10-04,Onboarded new team member,1.0,Pending,Project X,Admin
+2023-10-04,Optimized database queries,4.0,In Progress,Project Y,Development
+2023-10-05,Prepared monthly report,2.0,Completed,Project X,Reporting
+2023-10-05,Tested new feature deployment,1.5,Completed,Project Y,Testing
